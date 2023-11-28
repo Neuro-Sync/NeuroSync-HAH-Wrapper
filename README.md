@@ -1,1 +1,1 @@
-# NeuroSync-Astonishing--Wrapper
+# NeuroSync-Astonishing-Wrapper
